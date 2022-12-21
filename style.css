@@ -1,0 +1,22 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-family: 'Pacifico', cursive;
+    color: aqua;
+}
+
+canvas {
+    border:5px dotted orange;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+  
+
+    width: 40%;
+    margin-left: 50px;
+}
+
+body{
+    background-color: yellowgreen;
+}
